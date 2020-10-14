@@ -1,5 +1,7 @@
 [
- ["Azərbaycanın paytaxtı Bakı şəhəridir.", true], 
- ["Dünyanın 7 möcüzəsindən 5-i Bakıdadır. ", false],
-["Şimaldan İran ilə həmsərhəddir. ", false]
+ ["The capital of Azerbaijan is Baku.", true], 
+ ["5 out of 7 wonders of the world are in Baku. ", false],
+["Azerbaijan borders Iran to the north. ", false],
+ ["Nagorno-Karabakh belongs to Azerbaijan. ", true],
+ ["Java is the best programming language. ", true]
 ]

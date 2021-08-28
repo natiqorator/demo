@@ -288,12 +288,8 @@ http://145.239.37.125:20458/sabantv3/sabantv3/playlist.m3u8
 http://31.128.159.41:8080/ntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Zvezda.ru" tvg-name="Звезда" tvg-country="RU" tvg-language="" tvg-logo="" group-title="",Звезда (1080p)
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
-#EXTINF:-1 tvg-id="OTR.ru" tvg-name="ОТР" tvg-country="RU" tvg-language="Russian" tvg-logo="https://iptvx.one/icn/otr_ru.png" group-title="General",ОТР (720p)
-https://strm.yandex.ru/kal/otr/otr0.m3u8
 #EXTINF:-1 tvg-id="Spas.ru" tvg-name="Спас" tvg-country="RU" tvg-language="" tvg-logo="" group-title="",Спас (576p)
 http://spas.mediacdn.ru/cdn/spas/playlist.m3u8
-#EXTINF:-1 tvg-id="Evronovosti.ru" tvg-name="Евроновости" tvg-country="RU" tvg-language="Russian" tvg-logo="" group-title="News",Евроновости (720p)
-https://strm.yandex.ru/kal/euronews_supres/euronews_supres0.m3u8
 #EXTINF:-1 tvg-id="Spas.ru" tvg-name="Спас" tvg-country="RU" tvg-language="" tvg-logo="" group-title="",Спас (576p)
 http://spas.mediacdn.ru/cdn/spas/playlist.m3u8
 #EXTINF:-1 tvg-id="Spas.ru" tvg-name="Спас" tvg-country="RU" tvg-language="" tvg-logo="" group-title="",Спас (576p)
